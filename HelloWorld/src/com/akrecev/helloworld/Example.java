@@ -7,7 +7,7 @@ package com.akrecev.helloworld;
 
 public class Example {
 	
-//	выполнение программы в Java сачинается с вызова метода main()
+//	выполнение программы в Java начинается с вызова метода main()
 
 	public static void main(String[] args) {
 		
