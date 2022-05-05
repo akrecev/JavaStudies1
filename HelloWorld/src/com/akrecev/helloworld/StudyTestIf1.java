@@ -29,8 +29,8 @@ public class StudyTestIf1 {
 		}
 
 		System.out.println("Какая самая яркая звезда на небе ночью?");
-		String brightStar = myscan.next().toLowerCase();
-		if (brightStar.equals("сириус")) {
+		String brightStar = myscan.next();
+		if (brightStar.equalsIgnoreCase("сириус")) {
 			System.out.println("Точно!");
 		} else {
 			System.out.println("Это точно не " + brightStar + "!");
