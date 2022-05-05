@@ -25,7 +25,7 @@ public class StudyTestIf1 {
 		if (capitalOfParaguay.equals("Асунсьон")) {
 			System.out.println("Верно!");
 		} else {
-			System.out.println("Нет, это  Асунсьон!");
+			System.out.println("Нет, это Асунсьон!");
 		}
 
 		System.out.println("Какая самая яркая звезда на небе ночью?");
