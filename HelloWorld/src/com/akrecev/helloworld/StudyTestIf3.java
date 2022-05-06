@@ -102,7 +102,5 @@ public class StudyTestIf3 {
 			System.out.println("Внимательно следуйте инструкциям! Необходимо ввести число. Программа закрыта.");
 			return;
 		}
-
 	}
-
 }
